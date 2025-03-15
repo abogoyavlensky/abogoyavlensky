@@ -2,7 +2,7 @@
 
 I'm passionate about building reliable and maintainable software solutions. My focus is on backend development, particularly in Clojure.
 
-### 🛠️ What I Do
+### What I Do
 
 - 🤖 Develop auto-generated database migration tool for Clojure [Automigrate](https://github.com/abogoyavlensky/automigrate)
 - 🛠️ Create utilities for Clojure ecosystem
