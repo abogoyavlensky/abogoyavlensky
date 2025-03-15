@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Andrey
 
-<!--
-**abogoyavlensky/abogoyavlensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Blog-bogoyavlensky.com-blue)](https://bogoyavlensky.com)
+[![GitHub followers](https://img.shields.io/github/followers/abogoyavlensky?label=Follow&style=social)](https://github.com/abogoyavlensky)
 
-Here are some ideas to get you started:
+## 🌊 Software Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building reliable and maintainable software solutions. My focus is on backend development, particularly in Clojure.
+
+### 🛠️ What I Do
+
+- 🔧 Develop auto-generated database migration tool for Clojure [Automigrate](https://github.com/abogoyavlensky/automigrate)
+- 🚀 Create utilities for Clojure ecosystem
+  - [Slim](https://github.com/abogoyavlensky/slim)
+  - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn)
+- 📝 Share knowledge on my [personal blog](https://bogoyavlensky.com)
+- 🌱 Continuously learning and exploring new technologies
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=abogoyavlensky&show_icons=true&theme=default" alt="GitHub Stats" />
+</details>
