@@ -4,7 +4,7 @@ I'm passionate about building reliable and maintainable software solutions. My f
 
 ### What I Do
 
-- 🤖 Develop auto-generated database migration tool for Clojure [Automigrate](https://github.com/abogoyavlensky/automigrate)
+- 🤖 Develop a tool for auto-generated database migrations in Clojure [Automigrate](https://github.com/abogoyavlensky/automigrate)
 - 🛠️ Create utilities for Clojure ecosystem
   - [Slim](https://github.com/abogoyavlensky/slim)
   - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn)
