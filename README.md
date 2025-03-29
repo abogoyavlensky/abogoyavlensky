@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Andrey
+# Hi 👋 I'm Andrey
 
 I'm passionate about building reliable and maintainable software solutions. My focus is on backend and full-stack development, particularly in Clojure.
 
