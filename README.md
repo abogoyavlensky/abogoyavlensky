@@ -8,4 +8,5 @@ I'm passionate about building reliable and maintainable software solutions. My f
 - 🛠️ Create utilities for Clojure ecosystem
   - [Slim](https://github.com/abogoyavlensky/slim)
   - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn)
+  - [Clojure Stack Lite](https://github.com/abogoyavlensky/clojure-stack-lite)
 - 📝 Share knowledge on my [personal blog](https://bogoyavlensky.com) and continuously exploring new technologies
