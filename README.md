@@ -9,4 +9,6 @@ I'm passionate about building reliable and maintainable software solutions. My f
   - [Slim](https://github.com/abogoyavlensky/slim)
   - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn)
   - [Clojure Stack Lite](https://github.com/abogoyavlensky/clojure-stack-lite)
+- Working on side-projects:
+  - [GetUUID](https://getuuid.top) 
 - 📝 Share knowledge on my [personal blog](https://bogoyavlensky.com) and continuously exploring new technologies
