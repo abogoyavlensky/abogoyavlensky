@@ -1,10 +1,6 @@
 # Hi 👋 I'm Andrey
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abogoyavlensky&hide=html,css&langs_count=10&v=180&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
-
 I'm passionate about building reliable and maintainable software solutions. My focus is on backend and full-stack development, particularly in Clojure.
-
-
 
 ### What I Do
 
