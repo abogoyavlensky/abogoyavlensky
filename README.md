@@ -10,6 +10,6 @@ I'm passionate about building reliable and maintainable software solutions. My f
   - [Slim](https://github.com/abogoyavlensky/slim) - build tool for Clojure
   - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn) - hash assets with cache busting
 - 🚀 Side-projects:
-  - [GetUUID](https://getuuid.top) - a minimalist web tool for generating UUIDs
+  - [GetUUID](https://getuuid.bogoyavlensky.com/ - a minimalist web tool for generating UUIDs
   - [ReadX](https://readx.bogoyavlensky.com/) - Bionic reading converter for EPUB
 - 📝 Share knowledge on my [personal blog](https://bogoyavlensky.com) and continuously exploring new technologies
