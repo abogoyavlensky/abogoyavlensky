@@ -6,7 +6,7 @@ I'm passionate about building reliable and maintainable software solutions. My f
 
 - [Clojure Stack Lite](https://github.com/abogoyavlensky/clojure-stack-lite) - a template for full-stack Clojure app with SSR
 - [Automigrate](https://github.com/abogoyavlensky/automigrate) - a tool for auto-generated database migrations in Clojure
-- [clj-pulse] (https://github.com/abogoyavlensky/clj-pulse) - a fast-starting Clojure language server
+- [clj-pulse](https://github.com/abogoyavlensky/clj-pulse) - a fast-starting Clojure language server
 - [lgx](https://github.com/abogoyavlensky/lgx) - a package and project manager for [let-go](https://github.com/nooga/let-go)
 - [Slim](https://github.com/abogoyavlensky/slim) - build tool for Clojure
 - [manifest-edn](https://github.com/abogoyavlensky/manifest-edn) - hash assets with cache busting
